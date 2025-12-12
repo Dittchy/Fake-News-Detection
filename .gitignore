@@ -1,0 +1,25 @@
+# System & IDE
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Large Data Files (Download via script instead)
+Fake.csv
+True.csv
+processed_data.csv
+
+# Large Model Files (Too big for GitHub free tier, usually >100MB)
+bert_model_save/
+gnn_model.pth
+baseline_model.pkl
+graph_data/
+
+# Logs & Outputs
+shap_explanation.html

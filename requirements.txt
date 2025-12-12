@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+torch
+transformers
+networkx
+torch_geometric
+streamlit
+shap
+matplotlib
+seaborn
+pypdf
